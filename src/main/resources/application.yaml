@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/hibernatedb
+    username: root
+    password: Bilmirem+6944
+
+
